@@ -2,7 +2,7 @@
     "clients": {
         "client-1": {
             "ip": "ip_do_client_1",
-            "name": "nome_do_client_1"
+            "name": "Gabriel"
         },
         "client-2": {
             "ip": "ip_do_client_2",
